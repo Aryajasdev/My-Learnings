@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0uizs+E+/nVOgsGGqvNBnQ/wfTj0EHU8+9KmyfZswjfypEJXH3tuOqRvRQPvY/7BIBmm1xtQ5oGo0sTRU5heQ==",
+  "success": true,
+  "projectFilePath": "C:\\sources\\github\\c#\\myfirstLambda\\AWS.Database\\AWS.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryaj\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.1.0\\amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\aryaj\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\aryaj\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

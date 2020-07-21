@@ -1,0 +1,12 @@
+C:\sources\github\c#\myfirstLambda\myfirstLambda\bin\Debug\netcoreapp3.1\myfirstLambda.deps.json
+C:\sources\github\c#\myfirstLambda\myfirstLambda\bin\Debug\netcoreapp3.1\myfirstLambda.runtimeconfig.json
+C:\sources\github\c#\myfirstLambda\myfirstLambda\bin\Debug\netcoreapp3.1\myfirstLambda.runtimeconfig.dev.json
+C:\sources\github\c#\myfirstLambda\myfirstLambda\bin\Debug\netcoreapp3.1\myfirstLambda.dll
+C:\sources\github\c#\myfirstLambda\myfirstLambda\bin\Debug\netcoreapp3.1\myfirstLambda.pdb
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.csprojAssemblyReference.cache
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.csproj.CoreCompileInputs.cache
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.AssemblyInfoInputs.cache
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.AssemblyInfo.cs
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.dll
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.pdb
+C:\sources\github\c#\myfirstLambda\myfirstLambda\obj\Debug\netcoreapp3.1\myfirstLambda.genruntimeconfig.cache
